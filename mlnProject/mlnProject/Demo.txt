@@ -1,0 +1,8 @@
+([['0:', 'Sandra', 'journeyed', 'to', 'the', 'hallway', '.'], 
+['1:', 'Mary', 'travelled', 'to', 'the', 'bathroom', '.'], 
+['3:', 'John', 'moved', 'to', 'the', 'office', '.'], 
+['4:', 'Mary', 'moved', 'to', 'the', 'bedroom', '.'], 
+['6:', 'Mary', 'journeyed', 'to', 'the', 'kitchen', '.'], 
+['7:', 'Mary', 'went', 'back', 'to', 'the', 'bathroom', '.']], 
+['Where', 'is', 'John', '?'], 'office')
+The answer is : office
